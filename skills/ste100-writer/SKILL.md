@@ -13,6 +13,7 @@ easy to read for persons whose first language is not English. It also makes
 machine translation more accurate.
 
 STE has two parts:
+
 - A set of writing rules.
 - A dictionary of approved words.
 
@@ -21,9 +22,10 @@ STE has two parts:
 ASD owns the copyright of the ASD-STE100 specification and of the full
 Dictionary. This skill does not contain the full Dictionary. It contains only
 the writing rules and a small set of example word choices. Get the full
-specification at no cost from https://asd-ste100.org.
+specification at no cost from <https://asd-ste100.org>.
 
 If you are not sure that a word is approved, do one of these:
+
 - Use a word from `references/word-choices.md`.
 - Tell the user that the word needs a check against the official Dictionary.
 
@@ -63,6 +65,7 @@ Read `references/rules.md` for the full set.
 - Use simple verb tenses: the present tense, the past tense, and the future
   tense.
 - Do not remove words to make the text short. Keep the text clear.
+- Do not use em dashes
 
 ## Warnings and cautions
 
@@ -76,29 +79,30 @@ Example of a warning:
 
 ## Common changes
 
-| Do not use | Use |
-|---|---|
-| commence, initiate | start |
-| terminate | stop, end |
-| utilize | use |
-| in order to | to |
-| prior to | before |
-| subsequent to | after |
-| in the event that | if |
-| is capable of | can |
-| attempt | try |
-| assist | help |
-| approximately | about |
-| sufficient | enough |
-| require | need |
-| indicate | show |
-| ascertain | find, make sure |
+| Do not use         | Use             |
+| ------------------ | --------------- |
+| commence, initiate | start           |
+| terminate          | stop, end       |
+| utilize            | use             |
+| in order to        | to              |
+| prior to           | before          |
+| subsequent to      | after           |
+| in the event that  | if              |
+| is capable of      | can             |
+| attempt            | try             |
+| assist             | help            |
+| approximately      | about           |
+| sufficient         | enough          |
+| require            | need            |
+| indicate           | show            |
+| ascertain          | find, make sure |
 
 Read `references/word-choices.md` for more examples.
 
 ## Quality check
 
 Before you give the text to the user, do these checks:
+
 - Count the words in each sentence.
 - Find each passive verb. Change it to the active voice, if possible.
 - Find each "-ing" word. Change it, if the rules do not permit it.
