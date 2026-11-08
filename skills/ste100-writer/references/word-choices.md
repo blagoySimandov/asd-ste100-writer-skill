@@ -16,7 +16,7 @@ word needs a check against the official Dictionary.
 | acquire, obtain, procure | get |
 | adhere to, comply with | obey |
 | ascertain, determine | find, make sure |
-| assist, aid | help |
+| assist | help |
 | attempt | try |
 | cease, terminate, discontinue | stop |
 | commence, initiate | start |
@@ -25,20 +25,19 @@ word needs a check against the official Dictionary.
 | desire | want |
 | endeavor | try |
 | ensure | make sure |
-| examine, inspect | do a check of |
+| inspect | do a check of |
 | facilitate | help, make easy |
-| illuminate | come on, light |
+| light (a lamp) | come on |
 | indicate | show |
 | locate | find |
 | modify | change |
 | observe | look at, see |
 | permit | let |
-| purchase | buy |
+| purchase | get |
 | rectify, remedy | correct, repair |
 | replenish | fill |
-| require | need |
+| require | be necessary |
 | retain | keep |
-| transmit | send |
 | utilize | use |
 | verify | make sure, do a check of |
 
@@ -47,14 +46,12 @@ word needs a check against the official Dictionary.
 | Do not use | Use |
 |---|---|
 | aperture | hole |
-| assistance | help |
+| assistance | aid |
 | commencement | start |
 | illumination | light |
-| malfunction | fault |
-| personnel | persons |
+| fault | malfunction |
 | portion | part |
 | remainder | the other part |
-| requirement | need |
 | termination | end |
 | utilization | use |
 | vicinity | area |
@@ -63,27 +60,25 @@ word needs a check against the official Dictionary.
 
 | Do not use | Use |
 |---|---|
-| adequate, sufficient | enough |
-| adjacent | near, next to |
-| approximately | about |
+| adequate | sufficient |
+| about | approximately |
 | additional | more |
-| initial | first |
 | numerous, multiple | many |
 | optimum | best |
-| previous | before, earlier |
-| principal | main |
+| earlier | previous |
+| main | primary |
 | rapidly | quickly |
-| subsequent | after, next |
+| next | subsequent |
 
 ## Phrases
 
 | Do not use | Use |
 |---|---|
 | a number of | some, many |
-| at this time | now |
+| now | at this time |
 | due to the fact that | because |
 | for the purpose of | to, for |
-| in accordance with | as in, follow |
+| as in | in accordance with |
 | in conjunction with | with |
 | in order to | to |
 | in the event that | if |
@@ -99,12 +94,8 @@ word needs a check against the official Dictionary.
 | Word | Approved meaning | Do not use it for |
 |---|---|---|
 | follow | to come after | to obey |
-| clear | to remove an obstruction | free of, easy to understand |
-| about | approximately | on the subject of |
+| about | concerned with | approximately |
 | close | to shut | near |
-| fit | to install a part | correct size |
-| free | to release | at no cost |
-| like | the same as | to want |
 | only | no more than | alone |
 | right | the opposite of left | correct |
 | test | a noun (do a test) | a verb (test the pump) |
