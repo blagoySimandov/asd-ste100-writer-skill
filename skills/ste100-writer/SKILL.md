@@ -82,7 +82,7 @@ Example of a warning:
 | Do not use         | Use             |
 | ------------------ | --------------- |
 | commence, initiate | start           |
-| terminate          | stop, end       |
+| terminate          | stop            |
 | utilize            | use             |
 | in order to        | to              |
 | prior to           | before          |
@@ -91,9 +91,9 @@ Example of a warning:
 | is capable of      | can             |
 | attempt            | try             |
 | assist             | help            |
-| approximately      | about           |
-| sufficient         | enough          |
-| require            | need            |
+| about              | approximately   |
+| adequate           | sufficient      |
+| require            | be necessary    |
 | indicate           | show            |
 | ascertain          | find, make sure |
 
@@ -106,7 +106,7 @@ Before you give the text to the user, do these checks:
 - Count the words in each sentence.
 - Find each passive verb. Change it to the active voice, if possible.
 - Find each "-ing" word. Change it, if the rules do not permit it.
-- Find each word from the "Do not use" table.
+- Find each word from the "Do not use" tables and verify the replacement in the official Dictionary.
 - Make sure that each term is the same in all of the text.
 - Make sure that the technical data did not change.
 

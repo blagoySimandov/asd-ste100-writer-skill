@@ -11,9 +11,7 @@ depress
 desire
 endeavor
 ensure
-examine
 facilitate
-illuminate
 indicate
 locate
 modify
@@ -33,5 +31,3 @@ in order to
 prior to
 in the event that
 is capable of
-approximately
-sufficient

@@ -4,7 +4,7 @@ This file gives the writing rules in a short form. It does not replace the
 official ASD-STE100 specification. Get the specification at no cost from
 https://asd-ste100.org.
 
-The rule numbers agree with the chapters of the specification.
+The rule numbers in this file are local IDs for quick reference.
 
 ## 1. Words
 
